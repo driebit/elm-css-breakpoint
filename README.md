@@ -1,6 +1,6 @@
 # Elm-css-breakpoint
 
-A set of standard non-configurable browser breakpoints for use with elm-css.
+A set of standard non-configurable media queries for use with elm-css.
 
 _All breakpoints use `min-width` and match `all` media types._
 
