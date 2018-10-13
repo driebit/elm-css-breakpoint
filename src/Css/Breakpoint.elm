@@ -1,4 +1,10 @@
-module Css.Breakpoint exposing (huge, large, medium, small, tiny)
+module Css.Breakpoint exposing
+    ( tiny
+    , small
+    , medium
+    , large
+    , huge
+    )
 
 {-| _All breakpoints use `min-width` and match `all` media types._
 
